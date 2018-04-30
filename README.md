@@ -11,5 +11,5 @@ Each folder in the root folder represents a category. Then, each folder inside h
 ## Index
 
 1. Search
-2. Zappier replacements
+2. Automation
 
